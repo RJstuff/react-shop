@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/react-shop/static/js/main.be60fc3b.chunk.js",
+    "main.js.map": "/react-shop/static/js/main.be60fc3b.chunk.js.map",
+    "runtime-main.js": "/react-shop/static/js/runtime-main.8ec15039.js",
+    "runtime-main.js.map": "/react-shop/static/js/runtime-main.8ec15039.js.map",
+    "static/js/2.efb18755.chunk.js": "/react-shop/static/js/2.efb18755.chunk.js",
+    "static/js/2.efb18755.chunk.js.map": "/react-shop/static/js/2.efb18755.chunk.js.map",
+    "static/js/3.78d92ce8.chunk.js": "/react-shop/static/js/3.78d92ce8.chunk.js",
+    "static/js/3.78d92ce8.chunk.js.map": "/react-shop/static/js/3.78d92ce8.chunk.js.map",
+    "index.html": "/react-shop/index.html",
+    "static/js/2.efb18755.chunk.js.LICENSE.txt": "/react-shop/static/js/2.efb18755.chunk.js.LICENSE.txt",
+    "static/media/cover.a5832b22.jpg": "/react-shop/static/media/cover.a5832b22.jpg",
+    "static/media/gta5.87c8b025.jpg": "/react-shop/static/media/gta5.87c8b025.jpg",
+    "static/media/product1v1.8c7d855f.jpg": "/react-shop/static/media/product1v1.8c7d855f.jpg",
+    "static/media/product2.ed9320c0.jpg": "/react-shop/static/media/product2.ed9320c0.jpg",
+    "static/media/product3.d57d0a20.jpg": "/react-shop/static/media/product3.d57d0a20.jpg",
+    "static/media/product4.7090564c.jpg": "/react-shop/static/media/product4.7090564c.jpg",
+    "static/media/product5.f7777a0b.jpg": "/react-shop/static/media/product5.f7777a0b.jpg",
+    "static/media/product6.82b08d31.jpg": "/react-shop/static/media/product6.82b08d31.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ec15039.js",
+    "static/js/2.efb18755.chunk.js",
+    "static/js/main.be60fc3b.chunk.js"
+  ]
+}
